@@ -1,7 +1,7 @@
 /**
  * Clase Ataque. Para programa que simula una batalla pokemon.
  * Autor: Alfredo A. Villegas
- * Version: 1.0
+ * Version: 1.1
  * Fecha: 01-08-2017
  */
  
